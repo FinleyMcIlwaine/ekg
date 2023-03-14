@@ -40,8 +40,8 @@ library
     System.Remote.Snap
 
   build-depends:
-    aeson >= 0.4 && < 1.6,
-    base >= 4.5 && < 4.15,
+    aeson >= 0.4 && < 2.1,
+    base >= 4.5 && < 4.17,
     bytestring < 1.0,
     ekg-core >= 0.1 && < 0.2,
     ekg-json >= 0.1 && < 0.2,
